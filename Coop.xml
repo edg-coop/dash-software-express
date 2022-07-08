@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AddressBook>
+    <version>1</version>
+    <pbgroup>
+        <id>0</id>
+        <name>Default</name>
+        <photos></photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <pbgroup>
+        <id>3</id>
+        <name>COOP</name>
+        <photos>Default</photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <pbgroup>
+        <id>100</id>
+        <name>Blacklist</name>
+        <photos></photos>
+        <ringtones></ringtones>
+        <RingtoneIndex>0</RingtoneIndex>
+    </pbgroup>
+    <Contact>
+        <id>1</id>
+        <FirstName>CESAR LINO</FirstName>
+        <LastName>BARBATO</LastName>
+        <Department>TII</Department>
+        <Primary>0</Primary>
+        <Frequent>0</Frequent>
+        <Phone type="Work">
+            <phonenumber>9555</phonenumber>
+            <accountindex>1</accountindex>
+        </Phone>
+        <Mail></Mail>
+        <Group>3</Group>
+        <PhotoUrl></PhotoUrl>
+        <RingtoneUrl></RingtoneUrl>
+        <RingtoneIndex>0</RingtoneIndex>
+    </Contact>
+</AddressBook>
